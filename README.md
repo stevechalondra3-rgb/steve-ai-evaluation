@@ -1,4 +1,4 @@
-# steve-ai-evaluation
+
 # Hi, I'm Steve Chalondra 👋
 
 ### AI Evaluation | LLM QA | Data Annotation | Python Automation
